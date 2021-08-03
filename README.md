@@ -1,6 +1,6 @@
 # Very simple example of [obs-studio-node] usage
 
-Out of the box it works only on Windows. For running it on MacOS see below: [Run on MacOS](#run-on-macos).
+Out of the box it works only on Mac. This is where this fork differs.
 
 ## Setup
 
